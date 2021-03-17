@@ -62,7 +62,7 @@
     "loud-rejection": "^2.1.0",
     "make-dir": "^3.0.0",
     "meow": "^5.0.0",
-    "minimist": "^1.2.2",
+    "minimist": "^1.2.3",
     "normalize.css": "^8.0.0",
     "parcel-bundler": "^1.12.4",
     "pretty-ms": "^5.0.0",
